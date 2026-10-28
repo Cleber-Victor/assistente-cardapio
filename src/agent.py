@@ -48,7 +48,7 @@ class AgenteCardapio:
             base_url=os.getenv("LLM_BASE_URL", "https://api.groq.com/openai/v1"),
             api_key=os.getenv("LLM_API_KEY") or os.getenv("GROQ_API_KEY"),
         )
-        self.model = model or os.getenv("LLM_MODEL", "llama-3.3-70b-versatile")
+        self.model = model or os.getenv("LLM_MODEL", "openai/gpt-oss-120b")
 
     def responder(self, mensagem: str, historico: list[dict] | None = None) -> Resposta:
         msgs = [{"role": "system", "content": SYSTEM_PROMPT}]

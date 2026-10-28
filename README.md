@@ -4,6 +4,7 @@ emoji: 🍽️
 colorFrom: red
 colorTo: yellow
 sdk: gradio
+sdk_version: 5.50.0
 app_file: app.py
 pinned: false
 ---
@@ -30,7 +31,7 @@ perder a confiabilidade dos dados.
 ## A solução
 
 ```
-Usuário ──► LLM (Llama 3.3 via Groq)
+Usuário ──► LLM (gpt-oss-120b via Groq)
               │  decide quais ferramentas chamar
               ▼
    ┌──────────────────────┬───────────────────┬──────────────────────┐
