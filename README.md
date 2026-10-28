@@ -17,7 +17,7 @@ Agente de IA que recomenda pratos de delivery a partir de pedidos em linguagem n
 *"quero algo vegano e sem glúten até R$ 40"*, combinando **busca semântica** com
 **ferramentas determinísticas** para preço, frete e tempo de entrega.
 
-🔗 **Demo:** [huggingface.co/spaces/Cleber-Victor/assistente-cardapio](https://huggingface.co/spaces/Cleber-Victor/assistente-cardapio)
+🔗 **Demo:** [huggingface.co/spaces/crebiscoito/assistente-cardapio](https://huggingface.co/spaces/crebiscoito/assistente-cardapio)
 
 <!-- Coloque aqui um GIF de 10–20s usando o app: ![demo](docs/demo.gif) -->
 
