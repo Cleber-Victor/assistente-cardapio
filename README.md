@@ -19,8 +19,7 @@ Agente de IA que recomenda pratos de delivery a partir de pedidos em linguagem n
 
 ## Demo
 
-<!-- Grave um GIF de 10–20s usando o app, salve em docs/demo.gif e descomente a linha abaixo: -->
-<!-- ![Demonstração do Assistente de Cardápio](docs/demo.gif) -->
+![Demonstração do Assistente de Cardápio](docs/demo.gif)
 
 *Pedido "quero algo vegano e sem glúten até R$ 40": o agente filtra os pratos, calcula o frete
 e explica a recomendação, mostrando as ferramentas que usou.*
